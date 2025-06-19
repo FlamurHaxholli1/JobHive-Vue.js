@@ -1,0 +1,5 @@
+<!-- public/jobhive.svg -->
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="64" height="64" rx="16" fill="#246BFD"/>
+    <text x="50%" y="56%" text-anchor="middle" fill="#FFE156" font-size="34" font-family="Inter, Arial, sans-serif" font-weight="bold" dy=".1em">JH</text>
+</svg>
